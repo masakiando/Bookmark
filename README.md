@@ -9,6 +9,9 @@ https://www.noodlesoft.com/
  •	boolean：論理的な真偽を表す
  •	undefined：まだ初期化されていない値を表します
  •	null：値なしを表します
+ 
+https://subscription.packtpub.com/book/web_development/9781788295697/8/ch08lvl1sec65/consuming-store-from-the-components
+https://www.youtube.com/watch?v=y59-frfKR58&list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L
 
 https://subscription.packtpub.com/history
 https://subscription.packtpub.com/video/web_development/9781788838429
