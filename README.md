@@ -1,4 +1,7 @@
 # Bookmark
+至高のクラウドメモ環境を求めて
+https://sousaku-memo.net/php-system/1223
+https://www.noodlesoft.com/
 
 プリミティブ型
  •	string：Unicode文字の並びを表します
