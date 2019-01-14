@@ -10,6 +10,12 @@ https://www.noodlesoft.com/
  •	undefined：まだ初期化されていない値を表します
  •	null：値なしを表します
 
+https://subscription.packtpub.com/history
+https://subscription.packtpub.com/video/web_development/9781788838429
+https://subscription.packtpub.com/book/web_development/9781788293532
+https://subscription.packtpub.com/book/web_development/9781788992749
+https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/playlists
+
 http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#static-method-interval : 
 https://jsfiddle.net/qhcumwy4/ : 
 https://developer.mozilla.org/ja/docs/Web/Events : イベントリファレンス
