@@ -111,7 +111,7 @@ https://www.tomcky.net/entry/2018/03/17/002719
 https://blog.verygoodtown.com/2013/03/development-user-style-guide/
 https://www.mindmeister.com/1203144673
 １　改善の目的
-       ・生産性UP（作業の効率化（技術力、知識共有、開発ツール）、設計全体、日常業務）
+       ・生産性UP（作業の効率化（技術力、知識共有、開発ツール）、設計全体、開発手法、日常業務）
        ・品質向上（エラー発生少ない、ソースコードガイドライン） 、
        ・
 
