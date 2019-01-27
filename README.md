@@ -1,4 +1,15 @@
 # Bookmark
+2019/01/27
+git checkout feature
+git rebase master
+https://ja.atlassian.com/git/tutorials/merging-vs-rebasing
+
+[git]コミット履歴を見やすく表示するためのコマンドが便利
+https://dackdive.hateblo.jp/entry/2014/05/27/113542
+
+gitにおけるコミットログ/メッセージ例文集100
+https://gist.github.com/mono0926/e6ffd032c384ee4c1cef5a2aa4f778d7
+
 至高のクラウドメモ環境を求めて
 https://sousaku-memo.net/php-system/1223
 https://www.noodlesoft.com/
@@ -9,7 +20,7 @@ https://www.noodlesoft.com/
  •	boolean：論理的な真偽を表す
  •	undefined：まだ初期化されていない値を表します
  •	null：値なしを表します
- 
+
 https://subscription.packtpub.com/book/web_development/9781788295697/8/ch08lvl1sec65/consuming-store-from-the-components
 https://www.youtube.com/watch?v=y59-frfKR58&list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L
 
@@ -19,8 +30,8 @@ https://subscription.packtpub.com/book/web_development/9781788293532
 https://subscription.packtpub.com/book/web_development/9781788992749
 https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/playlists
 
-http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#static-method-interval : 
-https://jsfiddle.net/qhcumwy4/ : 
+http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#static-method-interval :
+https://jsfiddle.net/qhcumwy4/ :
 https://developer.mozilla.org/ja/docs/Web/Events : イベントリファレンス
 https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923 :プログラミングでよく使う英単語のまとめ
 https://github.com/johnpapa/vscode-angular-snippets :Angular TypeScript Snippets for VS Code
@@ -140,7 +151,7 @@ https://www.mindmeister.com/1203144673
 
 ６　やるべき課題の洗い出し
 　　　
- 
+
 
 業務改善の具体例
 
@@ -156,7 +167,7 @@ https://www.mindmeister.com/1203144673
 １０　５項目
 
 
-１１　検討、選択、決定、GO !! 
+１１　検討、選択、決定、GO !!
 
 
 いつから、スタート？？
