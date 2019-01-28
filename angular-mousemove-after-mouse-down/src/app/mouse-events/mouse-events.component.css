@@ -1,0 +1,35 @@
+.box {
+  height: 300px;
+  background-color: red;
+  color: white;
+  user-select: none;
+}
+
+
+/* .table {
+  display: table;
+}
+
+.table-row {
+  display: table-row;
+}
+
+.table-cell {
+  display: table-row;
+}
+
+.cell-left {
+  width: 25%;
+}
+
+.cell-rigth {
+  width: 75%;
+} */
+
+
+:host {
+  border: 2px green dashed;
+  /* background-color: lightgreen; */
+  width: 100%;
+  display: block;
+}

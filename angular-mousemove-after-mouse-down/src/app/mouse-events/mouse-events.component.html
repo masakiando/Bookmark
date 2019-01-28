@@ -1,0 +1,28 @@
+<p>
+	Use switchMap for mouse move interaction
+</p>
+<div class="box">
+  <span>{{x}}</span>
+  <span>{{y}}</span>
+</div>
+<div [style.display]="'table'"
+     [style.width.%]="100">
+  <div 
+       [style.display]="'table-row'"
+       [style.backgroundColor]="'blue'"
+       [style.width.%]="100">
+    <div [ngClass]="'cellLeft'"
+      [style.display]="'table-cell'"
+      [style.backgroundColor]="'pink'"
+      [style.width.%]="cellLeft"
+    >
+      tttt
+    </div>
+    <div [ngClass]="'cellRigth'"
+      [style.display]="'table-cell'"
+      [style.width.%]="cellRigth"
+    >
+      uuuu
+    </div>
+  </div>
+</div>
